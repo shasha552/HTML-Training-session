@@ -24,6 +24,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Activity 2/activity2.html" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Activity 8/activity8.html" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/Activity 9/activity9.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
