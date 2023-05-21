@@ -30,11 +30,6 @@ Learning HTML
     <td>Understing NoScript Tag</td>
   </tr>
   <tr>
-    <td>4</td>
-    <td>Activity-5</td>
-    <td>Create a External CSS, and link it using Link Tag </td>
-  </tr>
-  <tr>
     <td>5</td>
     <td>Activity-5</td>
     <td>Create a External CSS, and link it using Link Tag</td>
